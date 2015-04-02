@@ -1,0 +1,13 @@
+git config --global user.name "username"
+git config --global user.email "email"
+git init
+git add filename
+git commit filename -m "loginfo"
+git status
+git diff filename
+git log
+git log --pretty=oneline
+git reflog
+git reset --hard HEAD~stepnumber
+git reset --hard HEAD^
+git reset --hard headId
