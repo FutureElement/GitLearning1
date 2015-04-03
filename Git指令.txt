@@ -11,3 +11,4 @@ git reflog
 git reset --hard HEAD~stepnumber
 git reset --hard HEAD^
 git reset --hard headId
+git checkout -- filename
