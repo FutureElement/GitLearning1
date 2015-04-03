@@ -14,3 +14,6 @@ git reset --hard headId
 git checkout -- filename
 git reset HEAD filename
 git diff HEAD -- filename
+
+git remote add origin http://...
+git push -u origin master
