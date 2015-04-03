@@ -12,3 +12,5 @@ git reset --hard HEAD~stepnumber
 git reset --hard HEAD^
 git reset --hard headId
 git checkout -- filename
+git reset HEAD filename
+git diff HEAD -- filename
