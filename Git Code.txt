@@ -19,3 +19,6 @@ git remote add origin http://...
 git push -u origin master
 
 git clone https://github.com/xxx/xxx
+
+git pull origin master
+git push origin master
