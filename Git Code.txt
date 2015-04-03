@@ -17,3 +17,5 @@ git diff HEAD -- filename
 
 git remote add origin http://...
 git push -u origin master
+
+git clone https://github.com/xxx/xxx
