@@ -22,3 +22,13 @@ git clone https://github.com/xxx/xxx
 
 git pull origin master
 git push origin master
+
+git checkout -b branchname
+git branch branchname
+git checkout branchname
+git checkout master
+
+git merge branchname
+
+git branch -d branchname
+git branch
