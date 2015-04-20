@@ -32,3 +32,5 @@ git merge branchname
 
 git branch -d branchname
 git branch
+
+ssh-keygen -t rsa -C “157774105@qq.com”
